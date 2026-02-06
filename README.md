@@ -1,16 +1,24 @@
-Step 1: Start the Frontend
-    cd frontend
-    npm install
-    npm run dev
-    
-Step 2: Configure Backend Environment
-    edit .env file inside the backend folder :-
+## How to Run the Project
 
-    MONGO_URI=mongodb+srv://<username>:<password>@cluster0.xxxxx.mongodb.net/food-del
-    STRIPE_SECRET_KEY=sk_test_xxxxxxxxxxxxxxxxx
-    JWT_SECRET=your_jwt_secret_key
-  
-Step 3: Start the Backend
-    cd backend
-    npm install
-    npm start
+### Step 1: Start the Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+### Step 2: Configure Backend Environment
+Edit the `.env` file inside the `backend` folder:
+
+```env
+MONGO_URI=mongodb+srv://<username>:<password>@cluster0.xxxxx.mongodb.net/food-del
+STRIPE_SECRET_KEY=sk_test_xxxxxxxxxxxxx
+JWT_SECRET=your_jwt_secret_key
+```
+
+### Step 3: Start the Backend
+```bash
+cd backend
+npm install
+npm start
+```
