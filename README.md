@@ -2,7 +2,7 @@ Step 1: Start the Frontend
     cd frontend
     npm install
     npm run dev
-
+    
 Step 2: Configure Backend Environment
     edit .env file inside the backend folder :-
 
