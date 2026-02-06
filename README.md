@@ -1,3 +1,11 @@
+## Tech Stack
+
+- **Frontend:** React.js  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Deployment:** Render  
+
+
 ## How to Run the Project
 
 ### Step 1: Start the Frontend
@@ -22,3 +30,4 @@ cd backend
 npm install
 npm start
 ```
+
