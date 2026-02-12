@@ -8,10 +8,10 @@
 ## 🚀 Live Demo
 
 ### 👤 User Website  
-🔗 https://your-user-live-link.com  
+🔗 https://food-del-frontend-oy6v.onrender.com 
 
 ### 🛠️ Admin Panel  
-🔗 https://your-admin-live-link.com  
+🔗 https://food-del-admin-05zl.onrender.com
 
 ## How to Run the Project
 
