@@ -3,8 +3,15 @@
 - **Frontend:** React.js  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **Deployment:** Render  
+- **Deployment:** Render
 
+## 🚀 Live Demo
+
+### 👤 User Website  
+🔗 https://your-user-live-link.com  
+
+### 🛠️ Admin Panel  
+🔗 https://your-admin-live-link.com  
 
 ## How to Run the Project
 
